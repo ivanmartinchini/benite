@@ -228,7 +228,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-600x272.png",
+              "src": "@PROJECT_PATH@/assets/images/sin%20t%C3%ADtulo-600x272.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -571,7 +571,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/benite-logo-622x128.png",
+              "src": "@PROJECT_PATH@/assets/images/benite%20logo-622x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -597,7 +597,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tumblr-nz9ktzxffh1tj1sybo7-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tumblr_nz9ktzxffh1tj1sybo7-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
