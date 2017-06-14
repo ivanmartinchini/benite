@@ -139,7 +139,7 @@
             "showButtons": true
           },
           "title": "QUIENES SOMOS",
-          "text": "<span style=\"font-style: normal;\">Somos una empresa que se dedicada a la <b>indumentaria publicitaria,</b> nuestra <b>misión</b> es abastecer a los mejores con nuestros productos de <b>calidad</b> y <b>bajo precio</b> brindado una buena imagen a nuestros clientes.</span>",
+          "text": "<span style=\"font-style: normal;\">Somos una empresa que se dedica a la <b>indumentaria publicitaria,</b> nuestra <b>misión</b> es abastecer a los mejores con nuestros productos de <b>calidad</b> y <b>bajo precio</b> brindado una buena imagen a nuestros clientes.</span>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">PEDIR PRESUPUESTO</a>"
         },
         {
