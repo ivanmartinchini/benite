@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Benite garcia",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -771,7 +771,7 @@
             }
           },
           "title": "COMBO 850",
-          "text": "Remera de egrasados + buzo de egresados<b> $850</b>",
+          "text": "Remera de egresados + buzo de egresados<b> $850</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html#form1-i\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a>",
           "_styles": {
             "H3": {
