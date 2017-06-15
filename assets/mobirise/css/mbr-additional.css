@@ -78,7 +78,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .bg-primary {
-  background-color: #c0a375 !important;
+  background-color: #efefef !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -93,8 +93,8 @@ h6,
   background-color: #cf1c1a !important;
 }
 .btn-primary {
-  background-color: #c0a375;
-  border-color: #c0a375;
+  background-color: #efefef;
+  border-color: #efefef;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -103,14 +103,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #a07e49;
-  border-color: #a07e49;
+  background-color: #c9c9c9;
+  border-color: #c9c9c9;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #a07e49 !important;
-  border-color: #a07e49 !important;
+  background-color: #c9c9c9 !important;
+  border-color: #c9c9c9 !important;
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -214,8 +214,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #8e7041;
-  color: #8e7041;
+  border-color: #bcbcbc;
+  color: #bcbcbc;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -223,14 +223,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #c0a375;
-  border-color: #c0a375;
+  background-color: #efefef;
+  border-color: #efefef;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #c0a375 !important;
-  border-color: #c0a375 !important;
+  background-color: #efefef !important;
+  border-color: #efefef !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -333,7 +333,7 @@ h6,
   border-color: #cf1c1a !important;
 }
 .text-primary {
-  color: #c0a375 !important;
+  color: #efefef !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -360,36 +360,36 @@ h6,
   background-color: #cf1c1a;
 }
 .btn-social {
-  border-color: #c0a375;
+  border-color: #efefef;
 }
 .btn-social:hover {
-  background: #c0a375;
+  background: #efefef;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #c0a375;
+  color: #efefef;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #c0a375;
+  color: #efefef;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #c0a375;
+  background: #efefef;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #c0a375;
+  color: #efefef;
 }
 .lead a,
 .lead a:hover {
-  color: #c0a375;
+  color: #efefef;
 }
 .lead blockquote {
-  border-color: #c0a375;
+  border-color: #efefef;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #e8ddcd;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -409,7 +409,7 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #c0a375;
+  color: #efefef;
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
@@ -445,6 +445,12 @@ h6,
   color: #ffffff;
   font-size: 36px;
 }
+#footer1-a P {
+  color: #fc00ff;
+}
+#footer1-b P {
+  color: #fc00ff;
+}
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -463,17 +469,17 @@ h6,
   color: #ffffff;
 }
 #menu-c .link {
-  font-size: 0.75rem;
+  font-size: 1.2rem;
 }
 #menu-c .dropdown-item,
 #menu-c .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.300rem;
 }
 #menu-c .link:hover,
 #menu-c .dropdown-item:hover,
 #menu-c .link:focus,
 #menu-c .dropdown-item:focus {
-  color: #c0a375;
+  color: #efefef;
 }
 #menu-c .link[aria-expanded="true"],
 #menu-c .dropdown-menu {
@@ -500,9 +506,33 @@ h6,
 }
 #menu-c .bg-color.transparent.opened .link:hover,
 #menu-c .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
+  color: #efefef;
 }
 #menu-c .link[aria-expanded="true"],
 #menu-c .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #efefef!important;
+}
+#msg-box5-f H3 {
+  font-size: 36px;
+}
+#msg-box8-g .mbr-section-title,
+#msg-box8-g p {
+  color: #fff;
+}
+#msg-box8-g .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box5-h H3 {
+  font-size: 36px;
+}
+#form1-i .form-control-label {
+  color: #ffffff;
+}
+#form1-i SMALL {
+  color: #ffffff;
+}
+#form1-i .mbr-section-title {
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
 }
