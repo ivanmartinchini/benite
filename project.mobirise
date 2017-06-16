@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Benite garcia",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -98,7 +98,7 @@
           },
           "title": "INDUMENTARIA PUBLICITARIA",
           "text": "Empresa de indumentaria publicitaria.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#header1-0\" data-toolbar=\"-mbrBtnMove\">QUIENES SOMOS</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#header3-7\" data-toolbar=\"-mbrBtnMove\">NUESTROS CLIENTES</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">PEDIR PRESUPUESTO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ROPA DE EGRESADOS</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#header1-0\" data-toolbar=\"-mbrBtnMove\">QUIENES SOMOS</a>  <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box1-j\" data-toolbar=\"-mbrBtnMove\">NUESTROS CLIENTES</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">PEDIR PRESUPUESTO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ROPA DE EGRESADOS</a>"
         },
         {
           "_tags": [
@@ -141,6 +141,42 @@
           "title": "QUIENES SOMOS",
           "text": "<span style=\"font-style: normal;\">Somos una empresa que se dedica a la <b>indumentaria publicitaria,</b> nuestra <b>misión</b> es abastecer a los mejores con nuestros productos de <b>calidad</b> y <b>bajo precio</b> brindado una buena imagen a nuestros clientes.</span>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">PEDIR PRESUPUESTO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-j",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">VER GALERÍA</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "GALERÍA DE TRABAJOS",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_styles": {
@@ -403,7 +439,7 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "30px"
             }
           },
           "_anchor": "form1-9",
@@ -458,6 +494,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "footer1-a",
           "_params": {
             "paddingTop": 2,
@@ -471,12 +512,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 BENITEGARCIA.",
-          "_styles": {
-            "P": {
-              "color": "#c1c1c1"
-            }
-          }
+          "text": "Copyright (c) 2017 BENITEGARCIA."
         }
       ]
     },
@@ -491,6 +527,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "footer1-b",
           "_params": {
             "paddingTop": 2,
@@ -504,12 +545,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 BENITEGARCIA.",
-          "_styles": {
-            "P": {
-              "color": "#c1c1c1"
-            }
-          }
+          "text": "Copyright (c) 2017 BENITEGARCIA."
         },
         {
           "_styles": {
@@ -631,6 +667,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "msg-box5-f",
           "_params": {
             "imageSize": "53",
@@ -677,12 +718,7 @@
           },
           "title": "Baxtter confia en nosotros",
           "text": "Contamos con el apoyo de Baxtter, ellos confian en nosotros.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -726,6 +762,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "msg-box5-h",
           "_params": {
             "imageSize": "55",
@@ -772,18 +813,26 @@
           },
           "title": "COMBO 850",
           "text": "Remera de egresados + buzo de egresados<b> $850</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html#form1-i\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html#form1-i\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "36px",
+              "text-align": "center"
+            }
+          },
           "_anchor": "form1-i",
           "_params": {
             "labelsColor": "#ffffff",
@@ -829,20 +878,335 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Website Maker Title",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
           "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "36px",
+            ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-m",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgColor": "#000000",
+            "showMeta": false
+          },
+          "title": "GALERÍA",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_anchor": "footer1-k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 BENITEGARCIA."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x1246-800x498.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x1246.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-1-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-1-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-3-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-3-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-1-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-4-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-4-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-5-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-5-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-6-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-6-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-7-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-7-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x1172-800x468.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x1172.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-8-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-8-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-9-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-9-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-3-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-3-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-10-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-10-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x1122-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x1122.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x3333-800x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x3333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-1-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-1-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-1-2000x1122-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-1-2000x1122.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-l",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }

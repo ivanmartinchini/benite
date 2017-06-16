@@ -430,6 +430,10 @@ h6,
   text-align: center;
   font-family: 'Lato', sans-serif;
 }
+#msg-box1-j H3 {
+  color: #ffffff;
+  font-size: 36px;
+}
 #header3-7 .mbr-section-title,
 #header3-7 .mbr-section-subtitle {
   text-align: center;
@@ -443,7 +447,7 @@ h6,
 }
 #form1-9 .mbr-section-title {
   color: #ffffff;
-  font-size: 36px;
+  font-size: 30px;
 }
 #footer1-a P {
   color: #c1c1c1;
@@ -535,4 +539,14 @@ h6,
   color: #ffffff;
   font-size: 36px;
   text-align: center;
+}
+#header3-m .mbr-section-title,
+#header3-m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-m H3 {
+  color: #ffffff;
+}
+#footer1-k P {
+  color: #c1c1c1;
 }
